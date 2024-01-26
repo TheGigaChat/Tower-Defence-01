@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Poppins:ital@1&display=swap");
+
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#canvas1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 900px;
+  height: 600px;
+  background-color: burlywood;
+  /* color: dar; */
+  /* background-image: url(img/other/tnt-animated.png); */
+  z-index: 0;
+  font-family: "Orbitron", sans-serif;
+}
+
+/* #canvas1 {
+  width: 900px;
+  height: 600px;
+  background-color: aliceblue;
+} */
