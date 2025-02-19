@@ -1211,3 +1211,13 @@ window.addEventListener("resize", function () {
     }
   }
 } */
+
+// start
+
+// function getEnemies(enemy) {
+//   return enemy
+// }
+
+// function getLosses(unit) {
+//   return unit.Date
+// }
